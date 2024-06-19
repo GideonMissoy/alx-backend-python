@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-'''collect 10 random numbers using an async comprehensing over async_generator'''
+'''
+collect 10 random numbers using an async comprehensing over async_generator
+'''
 
 from typing import List
 
